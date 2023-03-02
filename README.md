@@ -88,16 +88,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf528
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="AMBA", GEN TV 17.4 https://inliveserver.com:1936/14056/14056/chunklist_w900525224.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="AMBA", NEO TV DIGITAL 16.1 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/1026-tele-mix_orig.png" group-title="AMBA", TELE MIX CANAL 50 GLEW https://panel.dattalive.com:443/8068/8068/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="AMBA", CINCO TV TIGRE 30.1 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg" group-title="AMBA", CANAL 29 ENSENADA 29.1 https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/894572709170032640/lf59GoQx_400x400.jpg" group-title="AMBA", TELECREATIVA LANUS https://panel.dattalive.com/8012/8012/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/2abdeea6-0a9d-4083-913c-277bf221b79e" group-title="AMBA", SICARDI TV https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
@@ -110,8 +103,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf528
 
 
 #EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="PCIA", CANAL 5 TANDIL https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="PCIA", TELEJUNIN https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="PCIA", CANAL 2 CORONEL PRINGLES https://streaming.reltid.com.ar/hls/pringles2.m3u8
@@ -128,14 +119,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf528
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA", CANAL 2 MAR DEL PLATA https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="PCIA", CANAL 6 MAR DEL PLATA https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bfgU_ufKFps/XrYKd9HJC_I/AAAAAAAA0hY/TxCOOPSR-R8fBb8zd9ThamFRUKIRsoFrACK8BGAsYHg/s0/2020-05-08.png" group-title="PCIA", CANAL 4 BAHIA BLANCA https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1129098446428868608/ab0xYu_B.jpg" group-title="PCIA", CANAL 12 TRENQUE LAUQUEN https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="SALTA", CANAL 7 SALTA https://panel.dattalive.com/8074/8074/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" group-title="SALTA", MILENIUM TV SALTA https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 
@@ -159,22 +144,16 @@ https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="ENTRE RIOS", 6 ENTRE RIOS TV https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="JUJUY", CANAL 2 JUJUY http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png" group-title="JUJUY", CANAL 4 JUJUY https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="JUJUY", CANAL 7 JUJUY https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="JUJUY", CANAL 13 JUJUY https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/877507453457502208/IltCxz-t_400x400.jpg" group-title="JUJUY", CANAL 2 PERICO https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png" group-title="NEUQUEN", RTN NEUQUEN http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="NEUQUEN", CN 24/7 NEUQUEN https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="SAN JUAN", CANAL 4 SAN JUAN http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="SAN JUAN", TELESOL SAN JUAN https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
