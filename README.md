@@ -183,6 +183,43 @@ https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="(TURF)" , TELETRAK CHILE https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/hipdromo-de-monterrico-en-vivo-1368.jpg" group-title="(TURF)" , MONTERRICO HD https://ed3os.live.opencaster.com/jcpstream_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600016616884/fIfy0nMgaWRhZ107b53BecTLweAeKZgWbQj7EmEn77tzl0tZfFqYhCsiJ1sYYaU9J7E=s300?v=1" group-title="(TURF)" , ATG LIVE https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-z7gmKW2bYOTTgchEaVOT337zIEFmlIskyfN2nUPbuxq6fq9gdYQXoJ0CmPSMRuU9Q&usqp=CAU" group-title="(TURF)" , EQUIDIA PRO https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.net/wp-content/uploads/2019/05/visiondigital63.png" group-title="(TURF)" , PUERTO RICO ESPAÑOL (EEUU) https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w460400059.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrD_VqMx1FvJYIOGgEcIMej5_59FFNscg0IxS5C_5eNdI0eJAuW3WfTWa1e9de-11RQM&usqp=CAU" group-title="(TURF)" , DUBAI RACING 1 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8
+
+#EXTINF:-1 tvg-logo="http://kooora4you.com/images/min/dubairacing2.jpg" group-title="(TURF)" , DUBAI RACING 2 https://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-210402193U50-L.jpg" group-title="(TURF)" , DUBAI RACING 3 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/dubaimubasher/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 1 https://5.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 2 https://5.trstream01.xyz/canal3/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 3 https://2.trstream01.xyz/canal4/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 4 https://3.trstream01.xyz/canal2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 5 https://2.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 6 https://3.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 7 https://1.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 8 https://4.trstream01.xyz/canal6/stream.m3u8
+
+
+
+
+
+
 
 
 
