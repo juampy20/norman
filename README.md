@@ -221,3 +221,19 @@ https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 7 https://1.trstream01.xyz/canal6/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 8 https://4.trstream01.xyz/canal6/stream.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
