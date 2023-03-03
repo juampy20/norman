@@ -283,8 +283,11 @@ https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="ConstanzaTV.do" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="General",ConstanzaTV
 https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo (720p) [Not 24/7]
+https://live.obslivestream.com/cdeportivo/index.m3u8
 
-
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="region", Morteros Cordoba
+https://coopmorteros.online/canal50/vivo.m3u8
 
 
 
