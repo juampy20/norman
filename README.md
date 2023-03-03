@@ -256,7 +256,20 @@ https://1.trstream01.xyz/canal6/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 8 
 https://4.trstream01.xyz/canal6/stream.m3u8
 
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/dQ86x7V.png" group-title="Undefined",Canal 10 Córdoba (1080p)
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="Outdoor",Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalSurPatagonia.cl" tvg-logo="https://i.imgur.com/QSzeaVo.png" group-title="Undefined",Canal Sur Patagonia
+https://v1.tustreaming.cl:19360/canalsurpatagoniatv/canalsurpatagoniatv.m3u8
+
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/sEN6VcY.png" group-title="Undefined",Canal Sur Andalucía (720p)
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Undefined",Canal U
+https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
 
 
