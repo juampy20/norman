@@ -298,9 +298,6 @@ https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/play
 #EXTINF:-1 tvg-id="La8Valladolid.es" tvg-logo="https://i.imgur.com/WEHmZ0R.png" group-title="Undefined",La 8 Valladolid (720p)
 https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La8Soria.es" tvg-logo="https://i.imgur.com/pTC3bLN.png" group-title="Undefined",La 8 Soria (720p) [Not 24/7]
-https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="La8Avila.es" tvg-logo="https://i.imgur.com/oVtVKw0.png" group-title="Undefined",La 8 Avila (720p) [Not 24/7]
 https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
