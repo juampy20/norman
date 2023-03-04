@@ -301,14 +301,9 @@ https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/
 #EXTINF:-1 tvg-id="La8Soria.es" tvg-logo="https://i.imgur.com/pTC3bLN.png" group-title="Undefined",La 8 Soria (720p) [Not 24/7]
 https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La8Segovia.es" tvg-logo="https://i.imgur.com/ePhoNJl.png" group-title="Undefined",La 8 Segovia (720p)
-https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La8Avila.es" tvg-logo="https://i.imgur.com/oVtVKw0.png" group-title="Undefined",La 8 Avila (720p) [Not 24/7]
 https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="La8Bierzo.es" tvg-logo="https://i.imgur.com/Euy5tr0.png" group-title="Undefined",La 8 Bierzo (720p)
-https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La8Burgos.es" tvg-logo="https://i.imgur.com/Uu7XQ15.png" group-title="Undefined",La 8 Burgos (720p) [Not 24/7]
 https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
@@ -316,11 +311,7 @@ https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/play
 #EXTINF:-1 tvg-id="La8Leon.es" tvg-logo="https://i.imgur.com/0cauvlI.png" group-title="Undefined",La 8 Leon (720p) [Not 24/7]
 https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La8Palencia.es" tvg-logo="https://i.imgur.com/ays4l8A.png" group-title="Undefined",La 8 Palencia (270p) [Not 24/7]
-https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La8Salamanca.es" tvg-logo="https://i.imgur.com/DiM5iWn.png" group-title="Undefined",La 8 Salamanca (720p)
-https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
 
 
 
